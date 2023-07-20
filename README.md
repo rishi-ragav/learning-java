@@ -1,6 +1,6 @@
 # Learning Java Repository
 
-![Java Logo](https://example.com/path/to/java-logo.png)
+![Java Logo](logo.png)
 
 Welcome to the **Learning Java** repository! This repository serves as a collection of all the files I have created while on my journey to deeply understand the Java programming language.
 
