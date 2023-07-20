@@ -15,7 +15,7 @@ public class sumof5 {
                 i--; // Decrement i to repeat the current iteration
             }
         }
-        
+        scanner.close();
         System.out.println("The sum of the positive numbers is: " + sum);
     }
 }

@@ -7,6 +7,7 @@ public class palindrome {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a number: ");
         int number = scanner.nextInt();
+        scanner.close();
         
         if (isPalindrome(number)) {
             System.out.println(number + " is a palindrome number.");

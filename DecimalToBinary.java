@@ -9,6 +9,7 @@ public class DecimalToBinary {
         String binaryNumber = convertDecimalToBinary(decimalNumber);
         
         System.out.println("Binary representation: " + binaryNumber);
+        scanner.close();
     }
     
     public static String convertDecimalToBinary(int decimalNumber) {
