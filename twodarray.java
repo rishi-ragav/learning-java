@@ -1,3 +1,5 @@
+//program to print 2d array
+
 public class twodarray {
     public static void main(String[] args) {
         int[][] a = {{2,3,4},{4,5,6}};

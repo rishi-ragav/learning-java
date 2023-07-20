@@ -1,3 +1,5 @@
+
+//program to find the sum of 5 positive numbers entered by the user.
 import java.util.Scanner;
 
 public class sumof5 {

@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//program to print fibonacci series
 public class fibonacci {
     public static void main(String[] args) {
 /*        int n = 10, t1 = 0, t2 = 1;

@@ -1,6 +1,8 @@
 /**
  * array2met
+ * 
  */
+// program to return array from method
 public class array2met {
 
     static int[] get()

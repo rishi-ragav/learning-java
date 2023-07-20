@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//program to add two matrices
 public class two2arrayinput {
     public static void main(String[] args) {
         int n;

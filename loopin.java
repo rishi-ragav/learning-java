@@ -1,3 +1,4 @@
+//program to find the minimum and maximum value in an array
 public class loopin {
     public static void main(String[] args) {
         int a[] = {33,3,4,5};
