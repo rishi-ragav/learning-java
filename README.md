@@ -28,8 +28,8 @@ Feel free to explore the contents of this repository and use the code as a refer
 To get started with Java programming and this repository:
 
 1. Make sure you have Java JDK (Java Development Kit) installed on your machine.
-2. Clone this repository to your local environment using the following command:
- git clone https://github.com/rishi-ragav/learning-java.git
+2. Clone this repository to your local environment using the following command:<br>
+ ### " git clone https://github.com/rishi-ragav/learning-java.git "
 3. Explore the various projects and code samples in the repository.
 
 ## Contributions
