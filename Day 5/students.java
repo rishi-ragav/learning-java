@@ -1,6 +1,6 @@
 // A program to demonstrate the use of classes and objects in Java  
 
-import java.util.Scanner;
+//import java.util.Scanner;
 
     
 public class students {
