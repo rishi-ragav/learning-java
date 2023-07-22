@@ -28,6 +28,7 @@
 
 abstract class animal
 {
+    
     abstract void show();
 }
 
