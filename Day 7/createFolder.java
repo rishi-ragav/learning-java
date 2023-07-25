@@ -1,3 +1,7 @@
+// Question: Write a program to create a folder in the current directory. 
+//If the folder already exists, display a message saying that the folder already exists.
+
+
 import java.util.Scanner;
 import java.io.File;
 
