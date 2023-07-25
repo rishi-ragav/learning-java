@@ -25,5 +25,5 @@ public static void main(String[] args) {
     }
     sc.close();
 }
-    
+    // output : Enter the name of the file to be created: 
 }
