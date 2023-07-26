@@ -21,8 +21,14 @@ public class byteandshort {
 
     long l1 = i;
     System.out.println(l1);
-    
 
+    float f = 10.5f;
+    double d = f;
+    System.out.println(d);
+
+    double d1 = 20.5;
+    float f1 = (float)d1; // explicit type conversion aka narrowing conversion
+    System.out.println(f1);
 
     }
 }
