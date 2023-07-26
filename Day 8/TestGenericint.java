@@ -20,13 +20,14 @@ public class TestGenericint {
         int s=list.get(12);
 
         System.out.println("element is: "+s);
-        Iterator<Integer> itr=list.iterator();
-        int i=0;
+        
+        Iterator<Integer> itr=list.iterator(); 
+        System.out.println(list);// iterator is an interface which is used to traverse the elements in a collection
+         int i=0;
         while(itr.hasNext())
         {
             System.out.println(itr.next()+ " "+i++);
         }
-
-
+    }
 }
-}
+
