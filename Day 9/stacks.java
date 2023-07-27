@@ -1,7 +1,7 @@
 // write a program to implement stacks using vector
 
 import java.util.Stack;
-import java.util.Vector;
+
 
 
 public class stacks {
