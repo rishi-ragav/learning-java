@@ -17,19 +17,11 @@ Input 			         Output
 
 
 
-def translate(list_of_words):
-    # Dictionary of words
-    dictionary = {"merry":"god", "christmas":"jul", "and":"och", "happy":"gott", "new":"nytt", "year":"ar"}
-    # List of translated words
-    translated_list = []
-    # Looping through the list of words
-    for word in list_of_words:
-        # Appending the translated word to the list
-        translated_list.append(dictionary[word])
-    # Returning the list of translated words
-    return translated_list
+def translate(words):
+    dict = {"merry":"god", "christmas":"jul", "and":"och", "happy":"gott", "new":"nytt", "year":"ar"}
+    swedish = []
+    for word in words:
+        swedish.append(dict[word])
+    return swedish
 
-# List of words to be translated
-list_of_words = ["merry","christmas"]
-# Printing the translated list
-print(translate(list_of_words))
+print(translate(["merry","christmas"]))
