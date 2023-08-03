@@ -1,0 +1,2 @@
+Create a user defined class named "Student" and store four objects.
+Store the objects in a Collection like HashSet.
